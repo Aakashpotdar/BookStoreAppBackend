@@ -1,0 +1,10 @@
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\AKASH\OneDrive\Desktop\BookStoreApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb
